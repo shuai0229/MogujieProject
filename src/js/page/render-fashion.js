@@ -1,4 +1,4 @@
-//var $ = require("../lib/jquery-2.1.1.min.js");
+var $ = require("../lib/jquery-2.1.1.min.js");
 $(function() {
 	var page = {
 		fashionInit: function() {

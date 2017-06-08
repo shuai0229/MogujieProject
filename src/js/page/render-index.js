@@ -1,6 +1,7 @@
 /**
  * Created by matrix on 2017/5/26.
  */
+var $ = require("../lib/jquery-2.1.1.min.js");
 var swiper = new Swiper('.index-slider .swiper-container', {
 		autoplayDisableOnInteraction: false,
 		autoplay: 2000,
