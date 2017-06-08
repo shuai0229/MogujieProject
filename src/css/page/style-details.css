@@ -1,4 +1,4 @@
-@import url(../lib/reset.css);
+@import url("../lib/reset.css");
 .datails_nav {
     border-bottom: 1px solid lightgray;
     height: 45px;
@@ -523,7 +523,7 @@
     height: 13px;
     left: 0;
     top: 2px;
-    background: url("../../img/xing.png") no-repeat;
+    background: url("../../images/datails-img/xing.png") no-repeat;
     background-size: 100% auto;
 }
 .datails_footer {
@@ -552,7 +552,7 @@
     top: 3px;
     width: 30px;
     height: 30px;
-    background: url("../../img/mass.png") no-repeat;
+    background: url("../../images/datails-img/mass.png") no-repeat;
     background-size: 100% auto;
 }
 .datails_footer .datails_footer_bar .datails_footerbar_im1 .datails_footer_text1 {
@@ -571,7 +571,7 @@
     top: 6px;
     width: 20px;
     height: 20px;
-    background: url("../../img/xing.png") no-repeat;
+    background: url("../../images/datails-img/xing.png") no-repeat;
     background-size: 100% auto;
 }
 .datails_footer .datails_footer_bar .datails_footerbar_im2 .datails_footer_text2 {
@@ -590,7 +590,7 @@
     top: 6px;
     width: 20px;
     height: 20px;
-    background: url("../../img/home.png") no-repeat;
+    background: url("../../images/datails-img/home.png") no-repeat;
     background-size: 100% auto;
 }
 .datails_footer .datails_footer_bar .datails_footerbar_im3 .datails_footer_text3 {
