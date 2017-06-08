@@ -27,7 +27,7 @@
   position: absolute;
   left: 10px;
   top: 10px;
-  background-image: url(../../images/shoppingCart-img/back.jpg);
+  background-image: url("../../images/shoppingCart-img/back.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -43,7 +43,7 @@
   position: absolute;
   right: 10px;
   top: 10px;
-  background-image: url(../../images/classify-img/shop.png);
+  background-image: url("../../images/classify-img/shop.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -77,22 +77,22 @@
   border-radius: 5px;
 }
 .fashion-tab .hot-tab .tab .tab-b {
-  background: url(Li4vLi4vaW1hZ2VzL3NoYXJlLWltZy9iZy0xLnBuZw==);
+  background: url("../../images/share-img/bg-1.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
 .fashion-tab .hot-tab .tab .tab-c {
-  background: url(Li4vLi4vaW1hZ2VzL3NoYXJlLWltZy9iZy0yLnBuZw==);
+  background: url("../../images/share-img/bg-2.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
 .fashion-tab .hot-tab .tab .tab-d {
-  background: url(Li4vLi4vaW1hZ2VzL3NoYXJlLWltZy9iZy0zLnBuZw==);
+  background: url("../../images/share-img/bg-3.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
 .fashion-tab .hot-tab .tab .tab-e {
-  background: url(Li4vLi4vaW1hZ2VzL3NoYXJlLWltZy9iZy00LnBuZw==);
+  background: url("../../images/share-img/bg-4.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -181,7 +181,7 @@
   display: inline-block;
   color: #999;
   padding-right: 15px;
-  background-image: url(../../images/classify-img/xing.png);
+  background-image: url("../../images/classify-img/xing.png");
   background-repeat: no-repeat;
   background-position: right center;
   background-size: 14px auto;
